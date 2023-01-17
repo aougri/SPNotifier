@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+Class-Path: selenium-java-4.7.1.jar selenium-chrome-driver-4.7.1.jar sel
+ enium-devtools-v106-4.7.1.jar selenium-devtools-v107-4.7.1.jar selenium
+ -devtools-v108-4.7.1.jar selenium-firefox-driver-4.7.1.jar selenium-dev
+ tools-v85-4.7.1.jar selenium-edge-driver-4.7.1.jar selenium-ie-driver-4
+ .7.1.jar selenium-safari-driver-4.7.1.jar selenium-support-4.7.1.jar se
+ lenium-chromium-driver-4.7.1.jar selenium-remote-driver-4.7.1.jar auto-
+ service-1.0.1.jar selenium-http-4.7.1.jar selenium-manager-4.7.1.jar au
+ to-common-1.2.jar guava-31.1-jre.jar selenium-json-4.7.1.jar selenium-a
+ pi-4.7.1.jar failureaccess-1.0.1.jar listenablefuture-9999.0-empty-to-a
+ void-conflict-with-guava.jar jsr305-3.0.2.jar checker-qual-3.12.0.jar e
+ rror_prone_annotations-2.11.0.jar j2objc-annotations-1.3.jar auto-servi
+ ce-annotations-1.0.1.jar jcommander-1.82.jar async-http-client-2.12.3.j
+ ar netty-handler-proxy-4.1.60.Final.jar netty-codec-http-4.1.84.Final.j
+ ar netty-transport-native-epoll-4.1.84.Final.jar netty-transport-native
+ -epoll-4.1.84.Final-linux-x86_64.jar netty-transport-classes-epoll-4.1.
+ 84.Final.jar netty-transport-native-kqueue-4.1.84.Final.jar netty-trans
+ port-native-kqueue-4.1.84.Final-osx-x86_64.jar netty-transport-classes-
+ kqueue-4.1.84.Final.jar netty-reactive-streams-2.0.4.jar netty-handler-
+ 4.1.84.Final.jar netty-transport-native-unix-common-4.1.84.Final.jar ne
+ tty-codec-socks-4.1.60.Final.jar netty-codec-4.1.84.Final.jar netty-tra
+ nsport-4.1.84.Final.jar async-http-client-netty-utils-2.12.3.jar netty-
+ buffer-4.1.84.Final.jar netty-resolver-4.1.84.Final.jar netty-common-4.
+ 1.84.Final.jar opentelemetry-exporter-logging-1.19.0.jar opentelemetry-
+ sdk-extension-autoconfigure-1.19.0-alpha.jar opentelemetry-sdk-extensio
+ n-autoconfigure-spi-1.19.0.jar opentelemetry-sdk-1.19.0.jar opentelemet
+ ry-sdk-trace-1.19.0.jar opentelemetry-sdk-metrics-1.19.0.jar openteleme
+ try-sdk-logs-1.19.0-alpha.jar opentelemetry-sdk-common-1.19.0.jar opent
+ elemetry-semconv-1.19.0-alpha.jar opentelemetry-exporter-common-1.19.0.
+ jar opentelemetry-api-logs-1.19.0-alpha.jar opentelemetry-api-1.19.0.ja
+ r opentelemetry-context-1.19.0.jar jtoml-2.0.0.jar byte-buddy-1.12.18.j
+ ar commons-exec-1.3.jar failsafe-3.3.0.jar reactive-streams-1.0.3.jar s
+ lf4j-api-1.7.30.jar jakarta.activation-1.2.2.jar
+Main-Class: Main
+
